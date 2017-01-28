@@ -1,0 +1,14 @@
+F:\Workspaces_Visual_Studio\RenameFiles\RenameFiles\RenameFiles\obj\Release\FileUtility.csproj.GenerateResource.Cache
+F:\Workspaces_Visual_Studio\RenameFiles\RenameFiles\RenameFiles\bin\Release\File Utility.exe.config
+F:\Workspaces_Visual_Studio\RenameFiles\RenameFiles\RenameFiles\obj\Release\FileUtility.ChangeExtension.resources
+F:\Workspaces_Visual_Studio\RenameFiles\RenameFiles\RenameFiles\obj\Release\FileUtility.Properties.Resources.resources
+F:\Workspaces_Visual_Studio\RenameFiles\RenameFiles\RenameFiles\obj\Release\FileUtility.SelectTask.resources
+F:\Workspaces_Visual_Studio\RenameFiles\RenameFiles\RenameFiles\bin\Release\File Utility.exe.manifest
+F:\Workspaces_Visual_Studio\RenameFiles\RenameFiles\RenameFiles\bin\Release\File Utility.application
+F:\Workspaces_Visual_Studio\RenameFiles\RenameFiles\RenameFiles\bin\Release\File Utility.exe
+F:\Workspaces_Visual_Studio\RenameFiles\RenameFiles\RenameFiles\bin\Release\File Utility.pdb
+F:\Workspaces_Visual_Studio\RenameFiles\RenameFiles\RenameFiles\obj\Release\FileUtility.RenameFile.resources
+F:\Workspaces_Visual_Studio\RenameFiles\RenameFiles\RenameFiles\obj\Release\File Utility.exe.manifest
+F:\Workspaces_Visual_Studio\RenameFiles\RenameFiles\RenameFiles\obj\Release\File Utility.application
+F:\Workspaces_Visual_Studio\RenameFiles\RenameFiles\RenameFiles\obj\Release\File Utility.exe
+F:\Workspaces_Visual_Studio\RenameFiles\RenameFiles\RenameFiles\obj\Release\File Utility.pdb

@@ -1,0 +1,10 @@
+F:\Workspaces_Visual_Studio\RenameFiles\RenameFiles\RenameFiles\bin\Debug\RenameFiles.exe.config
+F:\Workspaces_Visual_Studio\RenameFiles\RenameFiles\RenameFiles\bin\Debug\RenameFiles.exe
+F:\Workspaces_Visual_Studio\RenameFiles\RenameFiles\RenameFiles\bin\Debug\RenameFiles.pdb
+F:\Workspaces_Visual_Studio\RenameFiles\RenameFiles\RenameFiles\obj\Debug\RenameFiles.ChangeExtension.resources
+F:\Workspaces_Visual_Studio\RenameFiles\RenameFiles\RenameFiles\obj\Debug\RenameFiles.Properties.Resources.resources
+F:\Workspaces_Visual_Studio\RenameFiles\RenameFiles\RenameFiles\obj\Debug\RenameFiles.RenameFile.resources
+F:\Workspaces_Visual_Studio\RenameFiles\RenameFiles\RenameFiles\obj\Debug\RenameFiles.SelectTask.resources
+F:\Workspaces_Visual_Studio\RenameFiles\RenameFiles\RenameFiles\obj\Debug\FileUtility.csproj.GenerateResource.Cache
+F:\Workspaces_Visual_Studio\RenameFiles\RenameFiles\RenameFiles\obj\Debug\RenameFiles.exe
+F:\Workspaces_Visual_Studio\RenameFiles\RenameFiles\RenameFiles\obj\Debug\RenameFiles.pdb
